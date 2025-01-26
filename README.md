@@ -26,17 +26,31 @@ Table
 
 ## 📈 Key Insights Discovered
 KPI for Films, Worldwide, IMDb Rating 🎥
+
 Revenue by Film Industry 💸
+
 Films Released Each Year 🗓️
+
 Worldwide Collection by Month & Season 🌍📅
+
 Top-10 Highest-Grossing Films 💰
+
 Films Released Over Years 📅🎬
+
 IMDb Rating by Genre ⭐🎬
+
 Worldwide Collection vs. First Day Collection on OTT Platform 📊📅
+
 IMDb Rating Trend by OTT Platform 📉🎥
+
 High ROI Films 💹
+
 Language Performance based on Worldwide and IMDb Rating 🌐
+
 Hits by Lead Actor/Actress 🎭
+
 Verdict by Director 🎬
 
 A big thank you to @KSR Datavizon team, @Santosh J., @Mahesh Desireddy and @Kiran Kumar KSR for this amazing challenge that helped us elevate and showcase our Data Analytics skills
+
+Dashboard: ![Image](https://github.com/user-attachments/assets/599d8828-8ab4-4055-a0a1-79bdfd37c825)
