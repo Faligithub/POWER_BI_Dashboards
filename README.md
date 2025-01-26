@@ -6,9 +6,13 @@
 
 📊##Process
 Data Collection 📥
+
 Data Transformation - Data Types, Replacing Values, Missing values, Removed Leading and Trailing spaces, Corrected Misspelled words 🔄
+
 Data Modelling - Made Proper Relationships 🧠
+
 Data Analysis 🔎
+
 Report Creation 📑
 
 🖥️##Visuals Used
