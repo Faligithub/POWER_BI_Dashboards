@@ -1,23 +1,23 @@
 # POWER_BI_Dashboard
 
-🎉Indian Box Office Data Analysis Report for the KSR Hackathon Challenge-2, organized by @KSR Datavizon! 
+##🎉Indian Box Office Data Analysis Report for the KSR Hackathon Challenge-2, organized by @KSR Datavizon! 
 
-🔍 Task: Analyzed data from the Indian Box Office (2014-2024) to uncover insights and patterns in the film industry. 🎬
+##🔍 Task: Analyzed data from the Indian Box Office (2014-2024) to uncover insights and patterns in the film industry. 🎬
 
-📊 Process
+##📊 Process
 Data Collection 📥
 Data Transformation - Data Types, Replacing Values, Missing values, Removed Leading and Trailing spaces, Corrected Misspelled words 🔄
 Data Modelling - Made Proper Relationships 🧠
 Data Analysis 🔎
 Report Creation 📑
 
-🖥️ Visuals Used
+##🖥️ Visuals Used
 Cards
 Slicers
 Charts ((Stacked, Clustered)Bar, Line, Pie, Scatter)
 Table 
 
-📈 Key Insights Discovered
+##📈 Key Insights Discovered
 KPI for Films, Worldwide, IMDb Rating 🎥
 Revenue by Film Industry 💸
 Films Released Each Year 🗓️
