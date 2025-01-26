@@ -2,7 +2,7 @@
 
 ## 
 
-## 🔍 Task: Analyzed data from the Indian Box Office (2014-2024) to uncover insights and patterns in the film industry. 🎬
+🔍 **Task:** Analyzed data from the Indian Box Office (2014-2024) to uncover insights and patterns in the film industry. 🎬
 
 ## 📊 Process
 Data Collection 📥
